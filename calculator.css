@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+button{
+    background: grey;
+    color: black;
+    margin-top: 10px;
+    border: 1px solid black;
+    padding: 10px 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#num1,#num2{
+    font-size: 20px;
+    padding: 10px;
+}
+
+#result{
+    font-size: x-large;
+}
